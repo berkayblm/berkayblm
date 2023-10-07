@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Junior Java Developer
+Junior Software Engineer
 
 Reach me out  berkayant4@gmail.com
 
