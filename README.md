@@ -21,5 +21,5 @@ Languages - Technologies:
 ![image](https://github.com/berkayblm/berkayblm/assets/73589879/1a7a2720-6239-4c01-8ce2-03547f410a59)
 
 
-### :fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=berkayblm
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berkayblm&theme=dark&background=000000)](https://git.io/streak-stats)
