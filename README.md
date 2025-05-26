@@ -62,7 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/berkayblm/berkayblm/output/snake.svg" alt="Snake animation" />
 
 ###
 
